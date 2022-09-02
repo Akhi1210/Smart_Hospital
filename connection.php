@@ -8,3 +8,4 @@ if (!$conn = mysqli_connect($db_server_name,$user_name,$password,$db_name))
     {
     die("Failed to Connect!");
     }
+?>
