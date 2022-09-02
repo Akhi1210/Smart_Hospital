@@ -16,7 +16,6 @@
     
     <?php
 
-        include 'connection.php';
         $var_logout = "<form method='post'>
                             Hi Doctor ! Nice to see you again.
                             <input class='logout_btn' type='submit' name='logout' value='Logout'>
