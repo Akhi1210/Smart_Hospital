@@ -1,0 +1,85 @@
+.text {
+    height:25px;
+    border-radius:10px;
+    padding:3px;
+    border:solid thin #aaa;
+}
+
+.button {
+    
+    font-size: 15px;
+    padding:5px;
+    width:90px;
+    background-color:lightblue;
+    border-radius: 100px;
+    border-color: white;
+    
+}
+
+.button_dp{
+    font-size: 13px;
+    padding:5px;
+    width:100px;
+    background-color:lightblue;
+    border-radius: 10px;
+    border-color:white;
+}
+.logout_btn{
+    padding-top: 4px;
+    margin:10px;
+    background-color:lightblue;
+    border-radius: 5px;
+    border-color:white;
+}
+
+.image{
+    margin: auto;
+    width: 50px;
+    height: 50px;
+    padding-left: 80px;
+    padding-bottom:10px;
+
+}
+
+.box_dp{
+
+    margin: auto;
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+    
+    
+}
+
+.box{
+    
+    margin: auto;
+    width: 350px;
+    height: 200px;
+    padding: 20px;
+    
+}
+
+.box_pp{
+
+    margin:auto;
+    width:600px;
+    background-color:azure;
+    padding:20px;
+
+}
+
+.title_pp{
+    padding-left:10%;
+    font-size:25px;
+    font-weight:bold;
+    padding-bottom:5%;
+}
+
+.analyser_btn{
+    width:180px;
+    padding:5px;
+    background-color:rgba(193, 219, 230, 0.892);
+    border-color:white;
+    border-radius:5px;
+}
