@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body style='margin-left:100px;background-color:azure'>
+<body style='margin-left:10px;background-color:azure'>
     <div>
-        <h1 style='padding-left:20px;'>Main Menu</h1>
+        <h1 style='padding-left:10px;'>Main Menu</h1>
         <a href='patient_login_doctor.php' target='_blank'>patient login @doctor</a><br><br>
         <a href='patient_login_pharmacy.php' target='_blank'>patient login @pharmacy</a><br><br>
         <a href='doctors_UI.php' target='_blank'>Doctors UI</a><br><br>
