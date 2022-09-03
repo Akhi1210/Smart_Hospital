@@ -43,7 +43,6 @@
 
 .box_dp{
 
-    margin: auto;
     width: 500px;
     height: 200px;
     padding: 20px;
@@ -82,4 +81,17 @@
     background-color:rgba(193, 219, 230, 0.892);
     border-color:white;
     border-radius:5px;
+}
+
+.box_ld{
+    
+    width: 450px;
+    height: 200px;
+    padding: 20px;
+    
+}
+.box_plp{
+    width: 450px;
+    height: 200px;
+    padding: 20px;
 }
