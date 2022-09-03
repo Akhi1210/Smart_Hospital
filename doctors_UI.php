@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Doctor</title>
-    <link rel='icon' href='/icons/doctor.ico'/>
+    <link rel='icon' href='/icons/Doctor.ico'/>
 
     <link rel="stylesheet" href='styles_e_hospital.css' />
         
