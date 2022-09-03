@@ -9,7 +9,7 @@
     <link rel='icon' href='/icons/lock.ico'/>
     <link rel='stylesheet' href='styles_e_hospital.css' />
 </head>
-<body class='box' style="background-color:azure;">
+<body class='box_plp' style="background-image:url('/background_images/pat_pharm.jpg');background-size: cover">
     
     
     <form  method='post'>
