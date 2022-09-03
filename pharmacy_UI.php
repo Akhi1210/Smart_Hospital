@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +10,7 @@
     <link rel='stylesheet' href='styles_e_hospital.css'/>
 </head>
 <div class='title_pp'>Pharmacy Page</div>
-<body class='box_pp' style='padding-left:13%;background-color:azure;'>
+<body class='box_pp' style="background-image:url('/background_images/pharm_ui.jpeg');background-size: cover">
 
     <?php
         
