@@ -10,9 +10,9 @@
     <link rel='icon' href='/icons/log-in.ico'/>
     <link rel='stylesheet' href='styles_e_hospital.css'/>
 </head>
-<body style="background-color: azure;">
+<body style="background-image:url('/background_images/login_doc.jpg');background-size: cover">
     
-    <form class='box' method='post'>
+    <form class='box_ld' method='post'>
         <div  style='font-weight:bold;font-size:30px;margin:auto;'>Doctor Login Page</div><br>
         <button  type='submit' title='Opens Working Time Analyser' name='analyser_btn' class='analyser_btn'>Open Analyser</button><br>
         Login Id : <input class='text' style='margin-top:20px;margin-bottom:5px;'  type='number' name='doc_id' placeholder='Enter your Id'><br>
