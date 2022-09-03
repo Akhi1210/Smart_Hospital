@@ -12,7 +12,8 @@
 
 </head>
 <div style="font-size:30px;font-weight:bold;">Doctor's Page</div>
-<body class='box_dp' style="background-color: azure;">
+<body class='box_dp' style="background-image:url('/background_images/doc_ui.jpg');background-size: cover">
+>
     
     <?php
 
