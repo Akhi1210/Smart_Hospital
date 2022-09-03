@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,8 +9,8 @@
     <link rel='icon' href='/icons/log-in.ico'/>
     <link rel='stylesheet' href='styles_e_hospital.css'/>
 </head>
-<body style='background-color:azure;'>
-    <form class='box' method='post'>
+<body style="background-image:url('/background_images/login_pharm.jpg');background-size:cover;">
+    <form class='box_plp' method='post'>
         <div style='font-weight:bold;font-size:30px;margin:auto;'>Pharmacist Login Page</div><br>
         <button  type='submit' title='Opens Working Time Analyser' name='analyser_btn' class='analyser_btn'>Open Analyser</button><br>
         Login Id : <input class='text' style='margin-left:6px;margin-top:20px;margin-bottom:5px;' type='number' name='pharm_id' placeholder='Enter your id number'><br>
