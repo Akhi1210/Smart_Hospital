@@ -6,9 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aadhar Entry</title>
+    <link rel='icon' href='/icons/aadhar.png'/>
+    <link rel='stylesheet' href='styles_e_hospital.css'/>
 </head>
-<body style='margin:auto;padding-left:10px;width:750px;background-color:Azure'>
-    <h2> Enter your Aadhar details to add to our database</h2><br>
+<body class='box_plp' style="background-image:url('/background_images/aadhar.jpeg');background-size: cover;margin-left:15px;margin-top:15px;">
     <form method = 'post'>
         Aadhar No: <input type='number' name='aadhar_no' placeholder = 'Enter Aadhar number'><br><br>
         Name : <input style='margin-left:29px;' type = 'text' name = 'name' placeholder='Full name'><br><br>
