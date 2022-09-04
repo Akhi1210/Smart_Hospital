@@ -9,12 +9,12 @@
     <link rel='icon' href='/icons/lock.ico'/>
     <link rel='stylesheet' href='styles_e_hospital.css' />
 </head>
-<body class='box' style="margin:auto;width:300px;background-color: azure;">
+<body class='box' style="background-image:url('/background_images/pat_doc.jpg');background-size: cover">
     
         
     <form  method='post'>
         <br>
-        <div style="font-weight:bold;font-size:20px;">Patient Login Doctor's Page <br><br></div>
+        <div style="font-weight:bold;font-size:30px;">Patient authentication at OP </div><br><br>
         <div>Aadhar No : <input class='text' type="number" name="Aadhar_no" placeholder ="Enter Aadhar number"><br>
         <br></div>
         <input class='button' type="submit" name='sub-btn'><br>
