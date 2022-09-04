@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Doctor</title>
-    <link rel='icon' href='/icons/doctor.ico'/>
+    <link rel='icon' href='/icons/Doctor.ico'/>
 
     <link rel="stylesheet" href='styles_e_hospital.css' />
         
@@ -22,6 +22,10 @@
                             <input class='logout_btn' style='margin-left:100px' type='submit' name='logout' value='Logout'>
                             </form>";
         echo "$var_logout";
+        
+        if (isset($_POST['logout'])){
+            echo "<script>alert('logging out');</script>"
+        }
     
         
         // If both Doctor and Pateint are logged in page loads as:-
