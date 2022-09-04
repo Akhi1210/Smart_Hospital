@@ -13,10 +13,10 @@
 <body style="background-image:url('/background_images/login_doc.jpg');background-size: cover">
     
     <form class='box_ld' method='post'>
-        <div  style='font-weight:bold;font-size:30px;margin:auto;'>Doctor Login Page</div><br>
+        <div  style='font-weight:bold;font-size:30px;margin:auto;'>Doctor authentication</div><br>
         <button  type='submit' title='Opens Working Time Analyser' name='analyser_btn' class='analyser_btn'>Open Analyser</button><br>
-        Login Id : <input class='text' style='margin-top:20px;margin-bottom:5px;'  type='number' name='doc_id' placeholder='Enter your Id'><br>
-        Password: <input class='text' type='text' name='doc_pass' placeholder='Enter password'><br>
+        Login Id : <input class='text' style='margin-top:25px;margin-bottom:18px;'  type='number' name='doc_id' placeholder='Enter your Id'><br>
+        Password: <input class='text' type='text' name='doc_pass' placeholder='Enter password'><br><br>
         <input class='button' style='margin-top:7px;' type='submit' name='sub-log' value='Login'><br>
     </from>
     <?php
