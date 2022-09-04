@@ -14,7 +14,7 @@
     
     <form  method='post'>
         <br>
-        <div style="font-weight:bold;font-size:25px;">Patient Login Pharmacy Page <br><br></div>
+        <div style="font-weight:bold;font-size:30px;">Patient authentication at pharmacy <br><br></div>
         <div>Aadhar No : <input class='text' type="number" name="Aadhar_no" placeholder ="Enter Aadhar number"><br>
         <br></div>
         <input class='button' type="submit" name='sub-btn' value='Login'><br>
