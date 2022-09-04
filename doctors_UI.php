@@ -24,7 +24,7 @@
         echo "$var_logout";
         
         if (isset($_POST['logout'])){
-            echo "<script>alert('logging out');</script>"
+            echo "<script>alert('logging out');</script>";
         }
     
         
