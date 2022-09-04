@@ -11,10 +11,10 @@
 </head>
 <body style="background-image:url('/background_images/login_pharm.jpg');background-size:cover;">
     <form class='box_plp' method='post'>
-        <div style='font-weight:bold;font-size:30px;margin:auto;'>Pharmacist Login Page</div><br>
+        <div style='font-weight:bold;font-size:30px;margin:auto;'>Pharmacist authentication</div><br>
         <button  type='submit' title='Opens Working Time Analyser' name='analyser_btn' class='analyser_btn'>Open Analyser</button><br>
-        Login Id : <input class='text' style='margin-left:6px;margin-top:20px;margin-bottom:5px;' type='number' name='pharm_id' placeholder='Enter your id number'><br>
-        Password : <input class='text' type='number' name='password' placeholder='Enter your password'><br>
+        Login Id : <input class='text' style='margin-left:6px;margin-top:25px;margin-bottom:18px;' type='number' name='pharm_id' placeholder='Enter your id number'><br>
+        Password : <input class='text' type='number' name='password' placeholder='Enter your password'><br><br>
         <button style='margin-top:7px;' class='button' type='submit' name='sub-btn'>Login</button>
     </form>
     <?php
